@@ -34,7 +34,7 @@ The project follows the complete analytics lifecycle:
 
 The dashboard uses a **Star Schema** with a central fact table connected to multiple dimension tables for customers, products, markets, and dates.
 
-![Data Model](images/star-schema.png)
+![Data Model](images/star_schema.png)
 
 ---
 
